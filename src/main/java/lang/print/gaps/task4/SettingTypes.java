@@ -4,7 +4,7 @@ public class SettingTypes {
     public static void main(String[] args) {
         long first = 10_000_000_000L;
         char second = 'a';
-        byte third = 5 > 9;
+        boolean third = 5 > 9;
         double forth = 12.90434323324342;
         float fifth = 12.3F;
         byte sixth = 1;
